@@ -2,7 +2,7 @@
 
 /**
  * main - prints the size of various types
- * Return - return
+ * Return - return 0 done
  */
 
 int main(void)
