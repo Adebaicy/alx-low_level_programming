@@ -1,8 +1,10 @@
 #include <stdio.h>
+
 /**
- * main - describe
+ * main - prints the size of various types
  * Return - return
  */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
