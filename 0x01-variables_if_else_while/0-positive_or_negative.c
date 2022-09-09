@@ -16,18 +16,18 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-  if ( n > 0 ) 
-  {
-    print ("%d is positive", n);
-  }
-  else if ( n == 0)
-  {
-    print ("%d is zero", n);
-  }
-  else
-  {
-    print ("%d is negative", n);
-  }
+  	if ( n > 0 ) 
+  	{
+    		print ("%d is positive", n);
+  	}
+  	else if ( n == 0)
+  	{
+    		print ("%d is zero", n);
+  	}
+  	else
+ 	{
+    		print ("%d is negative", n);
+  	}
 	/* your code goes there */
 	return (0);
 }
