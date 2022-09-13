@@ -1,3 +1,4 @@
+int _isalpha(int);
 int _islower(int);
 int _putchar(char);
 void print_alphabet(void);
