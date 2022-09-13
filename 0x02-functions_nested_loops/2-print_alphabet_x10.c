@@ -3,7 +3,7 @@
 /**
  * print_alphabet - prints the alphabet, in lowercase, followed by a new line
  */
-void print_alphabetx10(void)
+void print_alphabet_x10(void)
 {
 int d = 1;
 while (d < 11)
