@@ -1,3 +1,4 @@
+int print_sign(int);
 int _isalpha(int);
 int _islower(int);
 int _putchar(char);
