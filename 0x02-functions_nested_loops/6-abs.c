@@ -16,6 +16,7 @@ return(-1 * c);
 else if(c > 0)
 {
 return (c);
+}
 else
 {
 return 0;
